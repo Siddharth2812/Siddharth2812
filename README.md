@@ -5,7 +5,7 @@
 ### I'm Siddharth
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-Siddharth_Reddy-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/siddharth-reddy-anthireddy-ab5198222/)
-- 👨‍💻 I'm a beginner in Python and Web Developement
+- 👨‍💻 I'm a beginner in Web Developement
 - ✍️ Currently pursuing B.Tech in Electrical and Computer engineering.
 - 📧 Reach me by sending an email to : [siddharthreddy2812@gmail.com](mailto:siddharthreddy2812@gmail.com)
 
